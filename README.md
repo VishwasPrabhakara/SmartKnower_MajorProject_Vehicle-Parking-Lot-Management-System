@@ -1,5 +1,7 @@
 # SmartKnower_MajorProject_Vehicle-Parking-Lot-Management-System
 
+This is the final output of our  major project. We have used sql and php so in order to run it you should use xampp software
+
 How to run the Vehicle Parking Management System Project
 
 1. Download the zip file
